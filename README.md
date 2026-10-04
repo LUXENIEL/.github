@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/luxeniel-logo.svg" alt="LUXENIEL" width="180"/>
+<img src="./LUXENIEL_logo.svg" alt="LUXENIEL" width="180"/>
 
 # LUXENIEL
 
